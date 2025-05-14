@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dattavishnu
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning DSA and OOPs
+- 🌱 I’m currently studying B.E(information science)
 - 💞️ I’m looking to collaborate on interseting projects
 - 📫 How to reach me havishnudatta@gmail.com
 
